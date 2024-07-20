@@ -57,7 +57,7 @@ Send your job to ToSUn : ```sbatch sample.sh```
 
 Send your job to Truba: ```sbatch sample.slurm```
 
--   Excellent step-by-step tutorial to familirize yourself with Unix Shell :
+-   A step-by-step tutorial to familiarize yourself with Unix Shell :
     [https://swcarpentry.github.io/shell-novice/]
 
 -   For basic slurm commands:
