@@ -2,7 +2,7 @@
 
 In the MIDSTlab we primarily use VMD/NAMD suite of programs to carry out MD simulations, trajectory visualization and basic analyses. Therefore, you are expected to follow and complete VMD & NAMD tutorials at http://www.ks.uiuc.edu/Training/Tutorials/ ( ‘using VMD’ and ‘NAMD tutorial’ are sufficient for beginners; however, please do not skip any steps; they come back to haunt you. Also, the theoretical information given in boxes is absolutely necessary).
 
-To make sure you have a smooth environment for running on your own computer, follow the instructions [here](https://github.com/midstlab/Welcome_pack_for_MIDSTLab/blob/main/HowTo_VMD_NAMD.pdf)  
+To make sure you have a smooth environment for running on your own computer, follow the instructions [here](https://github.com/midstlab/Welcome_pack_for_MIDSTLab/blob/main/Midst_guide.pdf)  
 
 **Molecular graphics**
 
@@ -24,4 +24,4 @@ TRUBA: with your mentor cc'd, e-mail to grid-teknik@ulakbim.gov.tr
 
 **Connection to TRUBA :** 
 
-To learn how to connect to TRUBA and submit jobs, follow the guidance [here](https://github.com/midstlab/Welcome_pack_for_MIDSTLab/blob/main/HowTo_VMD_NAMD.pdf)
+To learn how to connect to TRUBA and submit jobs, follow the guidance [here](https://github.com/midstlab/Welcome_pack_for_MIDSTLab/blob/main/Midst_guide.pdf)
