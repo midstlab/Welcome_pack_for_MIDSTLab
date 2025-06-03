@@ -26,4 +26,8 @@ TRUBA: with your mentor cc'd, e-mail to grid-teknik@ulakbim.gov.tr
 
 To learn how to connect to TRUBA and submit jobs, follow the guidance [here](https://github.com/midstlab/Welcome_pack_for_MIDSTLab/blob/main/Midst_guide.pdf)
 
- For batch run preparation [follow this repository](https://github.com/midstlab/md_simulation_run)
+For batch run preparation [follow this repository](https://github.com/midstlab/md_simulation_run)
+
+Sample submission files are available [here](https://github.com/midstlab/server_job_submission)
+
+ 
